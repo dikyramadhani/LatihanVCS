@@ -17,7 +17,7 @@ Langkah pertama, kita harus mengkonfigurasikan user nama dan email di Git, denga
 ![gambar scm git](Gambar/git-username.PNG) <br>
 > git config --global user.email "Masukkan Email anda disini" <br>
 ![gambar scm git](Gambar/git-useremail.PNG) <br>
-Setelah diisi, silahkan lakukan pengecekan user nama dan email, dengan mengetikkan perintah berikut :
+Setelah diisi, silahkan lakukan pengecekan user nama dan email, dengan mengetikkan perintah berikut : <br>
 > git config --global user.name <br>
 > git config --global user.email <br>
 * Buat akun di [GitHub](github.com) , seperti contoh dibawah. Dan lakukan *Verifikasi* akun melalui email yang sudah terdaftar.
@@ -35,9 +35,11 @@ Setelah diisi, silahkan lakukan pengecekan user nama dan email, dengan mengetikk
 ![gambar scm git](Gambar/github-view1.PNG)
 * Pembuatan akun dan repository pada GitHub telah selesai, lalu saat ini kita lakukan untuk *me-remote* repository GitHub pada GitBash Lokal. Caranya adalah, Pertama kita harus menyalin *link URL* git kita di Github, dengan cara tekan tombol *Code* lalu klik *Copy*.
 * Setelah *Link URL* git kita tercopy, Selanjutnya silahkan buka File Explorer pada Windows, kemudian pilih folder dimana kita akan *Mendownload* Repository dari GitHub ke lokal. Kemudian Klik Kanan, Pilih **Git Bash Here**.
+![gambar scm git](Gambar/klik-kanan.PNG)
 * *Pop Up* Command Prompt (CMD) akan terbuka. Pada proses ini kita akan melakukan download file repository yang tadi dibuat, dengan mengetikkan *syntax* berikut :
 > git clone [URL] Pada contohnya, saya akan memasukkan *git clone* <br>
 > https://github.com/dikyramadhani/LatihanVCS.git <br>
+![gambar scm git](Gambar/git-clone.PNG)
 * Setelah proses cloning selesai, pada saat ini kita masih pada folfer awal (master), kita harus masuk kedalam folder yang telah di cloning tadi. yaitu, *LatihanVCS* dengan mengetikkan *syntax* berikut :
 > cd LatihanVCS/ <br>
 ![gambar scm git](Gambar/cd.PNG)
