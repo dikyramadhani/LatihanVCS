@@ -32,7 +32,7 @@ Setelah diisi, silahkan lakukan pengecekan user nama dan email, dengan mengetikk
 > * Choose a license : Silahkan centang jika anda memiliki lisensi pada repository yang akan dibuat kemudian tekan tombol **Create Repository** untuk menyimpan <br>
 ![gambar scm git](Gambar/github-newrepo.PNG)
 * Jika repository sudah dibuat maka akan muncul tampilan seperti dibawah ini :
-![gambar scm git](Gambar/github-view1.PNG)
+![gambar scm git](Gambar/github-view.PNG)
 * Pembuatan akun dan repository pada GitHub telah selesai, lalu saat ini kita lakukan untuk *me-remote* repository GitHub pada GitBash Lokal. Caranya adalah, Pertama kita harus menyalin *link URL* git kita di Github, dengan cara tekan tombol *Code* lalu klik *Copy*.
 * Setelah *Link URL* git kita tercopy, Selanjutnya silahkan buka File Explorer pada Windows, kemudian pilih folder dimana kita akan *Mendownload* Repository dari GitHub ke lokal. Kemudian Klik Kanan, Pilih **Git Bash Here**.
 ![gambar scm git](Gambar/kanan.png)
