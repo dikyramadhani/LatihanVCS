@@ -12,14 +12,14 @@ NIM : 312010074 <br>
 > git--version <br>
 ![gambar scm git](Gambar/git-version.PNG)
 * Jika muncul tampilan git version, berarti Git sudah berhasil di install dan bisa di gunakan.
-Langkah pertama, kita harus mengkonfigurasikan user nama dan email di Git, dengan mengetikkan syntax berikut :
+Langkah pertama, kita harus mengkonfigurasikan user name dan email di Git dan langsung lakukan pengecekan user name dan email , dengan mengetikkan syntax berikut :
 > git config --global user.name "Masukkan Nama Anda disini" <br>
+> git config --global user.name <br>
 ![gambar scm git](Gambar/git-username.PNG) <br>
 > git config --global user.email "Masukkan Email anda disini" <br>
-![gambar scm git](Gambar/git-useremail.PNG) <br>
-Setelah diisi, silahkan lakukan pengecekan user nama dan email, dengan mengetikkan perintah berikut : <br>
-> git config --global user.name <br>
 > git config --global user.email <br>
+![gambar scm git](Gambar/git-useremail.PNG) <br>
+Setelah diisi, silahkan lakukan pengecekan user name dan email, dengan mengetikkan perintah berikut : <br>
 * Buat akun di [GitHub](github.com) , seperti contoh dibawah. Dan lakukan *Verifikasi* akun melalui email yang sudah terdaftar.
 ![gambar scm git](Gambar/github-signup.PNG)
 * Jika akun GitHub sudah dibuat dan di verifikasi, Proses selanjutnya silahkan buat *Repository* seperti gambar dibawah ini. <br>
@@ -32,7 +32,7 @@ Setelah diisi, silahkan lakukan pengecekan user nama dan email, dengan mengetikk
 > * Choose a license : Silahkan centang jika anda memiliki lisensi pada repository yang akan dibuat kemudian tekan tombol **Create Repository** untuk menyimpan <br>
 ![gambar scm git](Gambar/github-newrepo.PNG)
 * Jika repository sudah dibuat maka akan muncul tampilan seperti dibawah ini :
-![gambar scm git](Gambar/github-view.PNG)
+![gambar scm git](Gambar/github-view1.PNG)
 * Pembuatan akun dan repository pada GitHub telah selesai, lalu saat ini kita lakukan untuk *me-remote* repository GitHub pada GitBash Lokal. Caranya adalah, Pertama kita harus menyalin *link URL* git kita di Github, dengan cara tekan tombol *Code* lalu klik *Copy*.
 * Setelah *Link URL* git kita tercopy, Selanjutnya silahkan buka File Explorer pada Windows, kemudian pilih folder dimana kita akan *Mendownload* Repository dari GitHub ke lokal. Kemudian Klik Kanan, Pilih **Git Bash Here**.
 ![gambar scm git](Gambar/kanan.png)
