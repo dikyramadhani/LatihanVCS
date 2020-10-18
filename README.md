@@ -14,7 +14,7 @@ NIM : 312010074 <br>
 * Jika muncul tampilan git version, berarti Git sudah berhasil di install dan bisa di gunakan.
 Langkah pertama, kita harus mengkonfigurasikan user nama dan email di Git, dengan mengetikkan syntax berikut :
 > git config --global user.name "Masukkan Nama Anda disini" <br>
-![gambar scm git](Gambar/git-username.PNG)
+![gambar scm git](Gambar/git-username.PNG) <br>
 > git config --global user.email "Masukkan Email anda disini" <br>
 ![gambar scm git](Gambar/git-useremail.PNG)
 Setelah diisi, silahkan lakukan pengecekan user nama dan email, dengan mengetikkan perintah berikut :
@@ -23,12 +23,12 @@ Setelah diisi, silahkan lakukan pengecekan user nama dan email, dengan mengetikk
 * Buat akun di [GitHub](github.com) , seperti contoh dibawah. Dan lakukan *Verifikasi* akun melalui email yang sudah terdaftar.
 * Jika akun GitHub sudah dibuat dan di verifikasi, Proses selanjutnya silahkan buat *Repository* seperti gambar dibawah ini.
 **Penjelasan :**
-> Repository Name : (Isi nama repository yang diinginkan sesuai selera anda, contohnya seperti saya ingin membuat repository *LatihanVCS*) <br>
-> Description : (Isi dengan penjelasan tentang repository yang anda buat) <br>
-> Public / Private : (Pilih salah satu jenis repository akan bisa dilihat oleh semua orang atau tidak) <br>
-> Add a README.mc file : Centang pada bagian ini jika anda menginginkan file README.md ada di repository anda <br>
-> Add .gitignore : Merupakan sebuah file yang berisi daftar nama-nama file dan direktori yang akan diabaikan oleh Git <br>
-> Choose a license : Silahkan centang jika anda memiliki lisensi pada repository yang akan dibuat kemudian tekan tombol **Create Repository** untuk menyimpan <br>
+> * Repository Name : (Isi nama repository yang diinginkan sesuai selera anda, contohnya seperti saya ingin membuat repository *LatihanVCS*) <br>
+> * Description : (Isi dengan penjelasan tentang repository yang anda buat) <br>
+> * Public / Private : (Pilih salah satu jenis repository akan bisa dilihat oleh semua orang atau tidak) <br>
+> * Add a README.mc file : Centang pada bagian ini jika anda menginginkan file README.md ada di repository anda <br>
+> * Add .gitignore : Merupakan sebuah file yang berisi daftar nama-nama file dan direktori yang akan diabaikan oleh Git <br>
+> * Choose a license : Silahkan centang jika anda memiliki lisensi pada repository yang akan dibuat kemudian tekan tombol **Create Repository** untuk menyimpan <br>
 ![gambar scm git](Gambar/github-newrepo.PNG)
 * Jika repository sudah dibuat maka akan muncul tampilan seperti dibawah ini :
 ![gambar scm git](Gambar/github-view1.PNG)
