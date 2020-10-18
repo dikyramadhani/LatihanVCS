@@ -16,13 +16,13 @@ Langkah pertama, kita harus mengkonfigurasikan user nama dan email di Git, denga
 > git config --global user.name "Masukkan Nama Anda disini" <br>
 ![gambar scm git](Gambar/git-username.PNG) <br>
 > git config --global user.email "Masukkan Email anda disini" <br>
-![gambar scm git](Gambar/git-useremail.PNG)
+![gambar scm git](Gambar/git-useremail.PNG) <br>
 Setelah diisi, silahkan lakukan pengecekan user nama dan email, dengan mengetikkan perintah berikut :
 > git config --global user.name <br>
 > git config --global user.email <br>
 * Buat akun di [GitHub](github.com) , seperti contoh dibawah. Dan lakukan *Verifikasi* akun melalui email yang sudah terdaftar.
 ![gambar scm git](Gambar/github-signup.PNG)
-* Jika akun GitHub sudah dibuat dan di verifikasi, Proses selanjutnya silahkan buat *Repository* seperti gambar dibawah ini.
+* Jika akun GitHub sudah dibuat dan di verifikasi, Proses selanjutnya silahkan buat *Repository* seperti gambar dibawah ini. <br>
 **Penjelasan :**
 > * Repository Name : (Isi nama repository yang diinginkan sesuai selera anda, contohnya seperti saya ingin membuat repository *LatihanVCS*) <br>
 > * Description : (Isi dengan penjelasan tentang repository yang anda buat) <br>
@@ -40,7 +40,7 @@ Setelah diisi, silahkan lakukan pengecekan user nama dan email, dengan mengetikk
 > https://github.com/dikyramadhani/LatihanVCS.git <br>
 * Setelah proses cloning selesai, pada saat ini kita masih pada folfer awal (master), kita harus masuk kedalam folder yang telah di cloning tadi. yaitu, *LatihanVCS* dengan mengetikkan *syntax* berikut :
 > cd LatihanVCS/ <br>
-![gambar scm git](Gambar/github-cd.PNG)
+![gambar scm git](Gambar/cd.PNG)
 * Lalu saat ini kita sudah masuk kedalam folder *LatihanVCS*,Silahkan edit file **README.md** yang ada di File Explorer. Bisa menggunakan Text Editor (*Sublime Text, Notepad, Notepad++, Visual Studio Code*). Edit sesuai keinginan anda.
 Aturan file .md (Markdown) bisa dilihat di [Link ini](guides.github.com/features/mastering-markdown/)
 Setelah file README.md diedit, silahkan simpan file tersebut dengan cara **CTRL+S** atau **File > Save**
@@ -49,6 +49,7 @@ Setelah file README.md diedit, silahkan simpan file tersebut dengan cara **CTRL+
 ![gambar scm git](Gambar/git-add.PNG)
 * Setelah selesai melakukan *git add*. langkah selanjutnya adalah melakukan *commit*. Fungsi commit adalah untuk menyimpan perubahan yang dilakukan, tetapi tidak ada perubahan pada remote repository. Ketik pada App Git Bash seperti berikut ini :
 > git commit "Update README.md"
+![gambar scm git](Gambar/git-commit.PNG)
 * Semua proses telah selesai, silahkan kembali ke Web Browser untuk melihat perubahan yang telah di *commit* dan *push* dari remote.
 ![gambar scm git](Gambar/github-view2.PNG)
 ## TERIMA KASIH , SEMOGA BERHASIL !
