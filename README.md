@@ -35,7 +35,7 @@ Setelah diisi, silahkan lakukan pengecekan user nama dan email, dengan mengetikk
 ![gambar scm git](Gambar/github-view1.PNG)
 * Pembuatan akun dan repository pada GitHub telah selesai, lalu saat ini kita lakukan untuk *me-remote* repository GitHub pada GitBash Lokal. Caranya adalah, Pertama kita harus menyalin *link URL* git kita di Github, dengan cara tekan tombol *Code* lalu klik *Copy*.
 * Setelah *Link URL* git kita tercopy, Selanjutnya silahkan buka File Explorer pada Windows, kemudian pilih folder dimana kita akan *Mendownload* Repository dari GitHub ke lokal. Kemudian Klik Kanan, Pilih **Git Bash Here**.
-![gambar scm git](Gambar/klik-kanan.PNG)
+![gambar scm git](Gambar/kanan.png)
 * *Pop Up* Command Prompt (CMD) akan terbuka. Pada proses ini kita akan melakukan download file repository yang tadi dibuat, dengan mengetikkan *syntax* berikut :
 > git clone [URL] Pada contohnya, saya akan memasukkan *git clone* <br>
 > https://github.com/dikyramadhani/LatihanVCS.git <br>
@@ -45,7 +45,7 @@ Setelah diisi, silahkan lakukan pengecekan user nama dan email, dengan mengetikk
 ![gambar scm git](Gambar/cd.PNG)
 * Lalu saat ini kita sudah masuk kedalam folder *LatihanVCS*,Silahkan edit file **README.md** yang ada di File Explorer. Bisa menggunakan Text Editor (*Sublime Text, Notepad, Notepad++, Visual Studio Code*). Edit sesuai keinginan anda.
 Aturan file .md (Markdown) bisa dilihat di [Link ini](guides.github.com/features/mastering-markdown/) <br>
-![gambar scm git](Gambar/edit-file.PNG)
+![gambar scm git](Gambar/edit-file.PNG) <br>
 Setelah file README.md diedit, silahkan simpan file tersebut dengan cara **CTRL+S** atau **File > Save**
 * Langkah selanjutnya setelah file disimpan, kita kembali pada App Git Bash (CMD). Ketik pada Git Bash seperti berikut ini :
 > git add <br>
