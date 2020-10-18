@@ -48,7 +48,7 @@ Setelah diisi, silahkan lakukan pengecekan user name dan email, dengan mengetikk
 > cd LatihanVCS/ <br>
 ![gambar scm git](Gambar/cd.PNG)
 * Lalu saat ini kita sudah masuk kedalam folder *LatihanVCS*,Silahkan edit file **README.md** yang ada di File Explorer. Bisa menggunakan Text Editor (*Sublime Text, Notepad, Notepad++, Visual Studio Code*). Edit sesuai keinginan anda.
-Aturan file .md (Markdown) bisa dilihat di [Link ini](guides.github.com/features/mastering-markdown/) <br>
+Aturan file .md (Markdown) bisa dilihat di [Link ini](https://guides.github.com/features/mastering-markdown/) <br>
 ![gambar scm git](Gambar/edit-file.PNG) <br>
 Setelah file README.md diedit, silahkan simpan file tersebut dengan cara **CTRL+S** atau **File > Save**
 * Langkah selanjutnya setelah file disimpan, kita kembali pada App Git Bash (CMD). Ketik pada Git Bash seperti berikut ini :
