@@ -21,12 +21,12 @@ Setelah diisi, silahkan lakukan pengecekan user nama dan email, dengan mengetikk
 * Buat akun di [GitHub](github.com) , seperti contoh dibawah. Dan lakukan *Verifikasi* akun melalui email yang sudah terdaftar.
 * Jika akun GitHub sudah dibuat dan di verifikasi, Proses selanjutnya silahkan buat *Repository* seperti gambar dibawah ini.
 **Penjelasan :**
-> Repository Name : (Isi nama repository yang diinginkan sesuai selera anda, contohnya seperti saya ingin membuat repository *LatihanVCS*)
-> Description : (Isi dengan penjelasan tentang repository yang anda buat)
-> Public / Private : (Pilih salah satu jenis repository akan bisa dilihat oleh semua orang atau tidak)
-> Add a README.mc file : Centang pada bagian ini jika anda menginginkan file README.md ada di repository anda
-> Add .gitignore : Merupakan sebuah file yang berisi daftar nama-nama file dan direktori yang akan diabaikan oleh Git
-> Choose a license : Silahkan centang jika anda memiliki lisensi pada repository yang akan dibuat kemudian tekan tombol **Create Repository** untuk menyimpan
+> Repository Name : (Isi nama repository yang diinginkan sesuai selera anda, contohnya seperti saya ingin membuat repository *LatihanVCS*) <br>
+> Description : (Isi dengan penjelasan tentang repository yang anda buat) <br>
+> Public / Private : (Pilih salah satu jenis repository akan bisa dilihat oleh semua orang atau tidak) <br>
+> Add a README.mc file : Centang pada bagian ini jika anda menginginkan file README.md ada di repository anda <br>
+> Add .gitignore : Merupakan sebuah file yang berisi daftar nama-nama file dan direktori yang akan diabaikan oleh Git <br>
+> Choose a license : Silahkan centang jika anda memiliki lisensi pada repository yang akan dibuat kemudian tekan tombol **Create Repository** untuk menyimpan <br>
 * Jika repository sudah dibuat maka akan muncul tampilan seperti dibawah ini :
 * Pembuatan akun dan repository pada GitHub telah selesai, lalu saat ini kita lakukan untuk *me-remote* repository GitHub pada GitBash Lokal. Caranya adalah, Pertama kita harus menyalin *link URL* git kita di Github, dengan cara tekan tombol *Code* lalu klik *Copy*.
 * Setelah *Link URL* git kita tercopy, Selanjutnya silahkan buka File Explorer pada Windows, kemudian pilih folder dimana kita akan *Mendownload* Repository dari GitHub ke lokal. Kemudian Klik Kanan, Pilih **Git Bash Here**.
