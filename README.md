@@ -21,6 +21,7 @@ Setelah diisi, silahkan lakukan pengecekan user nama dan email, dengan mengetikk
 > git config --global user.name <br>
 > git config --global user.email <br>
 * Buat akun di [GitHub](github.com) , seperti contoh dibawah. Dan lakukan *Verifikasi* akun melalui email yang sudah terdaftar.
+![gambar scm git](Gambar/github-signup.PNG)
 * Jika akun GitHub sudah dibuat dan di verifikasi, Proses selanjutnya silahkan buat *Repository* seperti gambar dibawah ini.
 **Penjelasan :**
 > * Repository Name : (Isi nama repository yang diinginkan sesuai selera anda, contohnya seperti saya ingin membuat repository *LatihanVCS*) <br>
@@ -38,7 +39,8 @@ Setelah diisi, silahkan lakukan pengecekan user nama dan email, dengan mengetikk
 > git clone [URL] Pada contohnya, saya akan memasukkan *git clone* <br>
 > https://github.com/dikyramadhani/LatihanVCS.git <br>
 * Setelah proses cloning selesai, pada saat ini kita masih pada folfer awal (master), kita harus masuk kedalam folder yang telah di cloning tadi. yaitu, *LatihanVCS* dengan mengetikkan *syntax* berikut :
-> cd LatihanVCS/
+> cd LatihanVCS/ <br>
+![gambar scm git](Gambar/github-cd.PNG)
 * Lalu saat ini kita sudah masuk kedalam folder *LatihanVCS*,Silahkan edit file **README.md** yang ada di File Explorer. Bisa menggunakan Text Editor (*Sublime Text, Notepad, Notepad++, Visual Studio Code*). Edit sesuai keinginan anda.
 Aturan file .md (Markdown) bisa dilihat di [Link ini](guides.github.com/features/mastering-markdown/)
 Setelah file README.md diedit, silahkan simpan file tersebut dengan cara **CTRL+S** atau **File > Save**
