@@ -14,7 +14,9 @@ NIM : 312010074 <br>
 * Jika muncul tampilan git version, berarti Git sudah berhasil di install dan bisa di gunakan.
 Langkah pertama, kita harus mengkonfigurasikan user nama dan email di Git, dengan mengetikkan syntax berikut :
 > git config --global user.name "Masukkan Nama Anda disini" <br>
+![gambar scm git](Gambar/git-username.PNG)
 > git config --global user.email "Masukkan Email anda disini" <br>
+![gambar scm git](Gambar/git-useremail.PNG)
 Setelah diisi, silahkan lakukan pengecekan user nama dan email, dengan mengetikkan perintah berikut :
 > git config --global user.name <br>
 > git config --global user.email <br>
@@ -27,7 +29,9 @@ Setelah diisi, silahkan lakukan pengecekan user nama dan email, dengan mengetikk
 > Add a README.mc file : Centang pada bagian ini jika anda menginginkan file README.md ada di repository anda <br>
 > Add .gitignore : Merupakan sebuah file yang berisi daftar nama-nama file dan direktori yang akan diabaikan oleh Git <br>
 > Choose a license : Silahkan centang jika anda memiliki lisensi pada repository yang akan dibuat kemudian tekan tombol **Create Repository** untuk menyimpan <br>
+![gambar scm git](Gambar/github-newrepo.PNG)
 * Jika repository sudah dibuat maka akan muncul tampilan seperti dibawah ini :
+![gambar scm git](Gambar/github-view1.PNG)
 * Pembuatan akun dan repository pada GitHub telah selesai, lalu saat ini kita lakukan untuk *me-remote* repository GitHub pada GitBash Lokal. Caranya adalah, Pertama kita harus menyalin *link URL* git kita di Github, dengan cara tekan tombol *Code* lalu klik *Copy*.
 * Setelah *Link URL* git kita tercopy, Selanjutnya silahkan buka File Explorer pada Windows, kemudian pilih folder dimana kita akan *Mendownload* Repository dari GitHub ke lokal. Kemudian Klik Kanan, Pilih **Git Bash Here**.
 * *Pop Up* Command Prompt (CMD) akan terbuka. Pada proses ini kita akan melakukan download file repository yang tadi dibuat, dengan mengetikkan *syntax* berikut :
@@ -44,5 +48,6 @@ Setelah file README.md diedit, silahkan simpan file tersebut dengan cara **CTRL+
 * Setelah selesai melakukan *git add*. langkah selanjutnya adalah melakukan *commit*. Fungsi commit adalah untuk menyimpan perubahan yang dilakukan, tetapi tidak ada perubahan pada remote repository. Ketik pada App Git Bash seperti berikut ini :
 > git commit "Update README.md"
 * Semua proses telah selesai, silahkan kembali ke Web Browser untuk melihat perubahan yang telah di *commit* dan *push* dari remote.
+![gambar scm git](Gambar/github-view2.PNG)
 ## TERIMA KASIH , SEMOGA BERHASIL !
 
