@@ -7,7 +7,7 @@ NIM : 312010074 <br>
 TEKNIK INFORMATIKA - UNIVERSITAS PELITA BANGSA <br>
 
 ## Langkah-Langkah Penggunaan Git
-* Langkah pertama, silahkan download git pada link berikut : [Klik disini](git-scm.com)
+* Langkah pertama, silahkan download git pada link berikut : [Klik disini](https://git-scm.com)
 ![gambar scm git](Gambar/git-download.PNG) <br>
 * Setelah file di download, selanjutnya lakukan instalasi dengan referensi berikut : [Panduan Installasi Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 ![gambar scm git](Gambar/git-guide.PNG) <br>
@@ -23,7 +23,7 @@ Langkah pertama, kita harus mengkonfigurasikan user name dan email di Git dan la
 > git config --global user.email <br>
 ![gambar scm git](Gambar/git-useremail.PNG) <br>
 Setelah diisi, silahkan lakukan pengecekan user name dan email, dengan mengetikkan perintah berikut : <br>
-* Buat akun di github.com , seperti contoh dibawah. Dan lakukan *Verifikasi* akun melalui email yang sudah terdaftar.
+* Buat akun di [GitHub](https//github.com) , seperti contoh dibawah. Dan lakukan *Verifikasi* akun melalui email yang sudah terdaftar.
 ![gambar scm git](Gambar/github-signup.PNG)
 * Jika akun GitHub sudah dibuat dan di verifikasi, Proses selanjutnya silahkan buat *Repository* seperti gambar dibawah ini. <br>
 **Penjelasan :**
