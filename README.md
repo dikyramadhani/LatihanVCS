@@ -23,7 +23,7 @@ Langkah pertama, kita harus mengkonfigurasikan user name dan email di Git dan la
 > git config --global user.email <br>
 ![gambar scm git](Gambar/git-useremail.PNG) <br>
 Setelah diisi, silahkan lakukan pengecekan user name dan email, dengan mengetikkan perintah berikut : <br>
-* Buat akun di [GitHub](github.com) , seperti contoh dibawah. Dan lakukan *Verifikasi* akun melalui email yang sudah terdaftar.
+* Buat akun di github.com , seperti contoh dibawah. Dan lakukan *Verifikasi* akun melalui email yang sudah terdaftar.
 ![gambar scm git](Gambar/github-signup.PNG)
 * Jika akun GitHub sudah dibuat dan di verifikasi, Proses selanjutnya silahkan buat *Repository* seperti gambar dibawah ini. <br>
 **Penjelasan :**
