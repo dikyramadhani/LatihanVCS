@@ -8,6 +8,7 @@ TEKNIK INFORMATIKA - UNIVERSITAS PELITA BANGSA <br>
 
 ## Langkah-Langkah Penggunaan Git
 * Langkah pertama, silahkan download git pada link berikut : [Klik disini](git-scm.com)
+![gambar scm git](Gambar/git-download.PNG) <br>
 * Setelah file di download, selanjutnya lakukan instalasi dengan referensi berikut : [Panduan Installasi Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 * Lalu jika installasi telah selesai, buka *software* **GitBash** pada menu di Windows, dan lakukan pengecekan versi,  dengan mengetik syntax berikut :
 > git--version <br>
