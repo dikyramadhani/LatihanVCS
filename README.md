@@ -9,7 +9,7 @@ NIM : 312010074 <br>
 * Langkah pertama, silahkan download git pada link berikut : [Klik disini](git-scm.com)
 * Setelah file di download, selanjutnya lakukan instalasi dengan referensi berikut : [Panduan Installasi Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 * Lalu jika installasi telah selesai, buka *software* **GitBash** pada menu di Windows, dan lakukan pengecekan versi,  dengan mengetik syntax berikut :
-> git--version
+> git--version <br>
 ![gambar scm git](Gambar/git-version.PNG)
 * Jika muncul tampilan git version, berarti Git sudah berhasil di install dan bisa di gunakan.
 Langkah pertama, kita harus mengkonfigurasikan user nama dan email di Git, dengan mengetikkan syntax berikut :
@@ -39,7 +39,7 @@ Setelah diisi, silahkan lakukan pengecekan user nama dan email, dengan mengetikk
 Aturan file .md (Markdown) bisa dilihat di [Link ini](guides.github.com/features/mastering-markdown/)
 Setelah file README.md diedit, silahkan simpan file tersebut dengan cara **CTRL+S** atau **File > Save**
 * Langkah selanjutnya setelah file disimpan, kita kembali pada App Git Bash (CMD). Ketik pada Git Bash seperti berikut ini :
-> git add
+> git add <br>
 ![gambar scm git](Gambar/git-add.PNG)
 * Setelah selesai melakukan *git add*. langkah selanjutnya adalah melakukan *commit*. Fungsi commit adalah untuk menyimpan perubahan yang dilakukan, tetapi tidak ada perubahan pada remote repository. Ketik pada App Git Bash seperti berikut ini :
 > git commit "Update README.md"
