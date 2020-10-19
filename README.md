@@ -12,7 +12,7 @@ TEKNIK INFORMATIKA - UNIVERSITAS PELITA BANGSA <br>
 * Setelah file di download, selanjutnya lakukan instalasi dengan referensi berikut : [Panduan Installasi Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 ![gambar scm git](Gambar/git-guide.PNG) <br>
 * Lalu jika installasi telah selesai, buka *software* **GitBash** pada menu di Windows, dan lakukan pengecekan versi,  dengan mengetik syntax berikut :
-> git--version <br>
+> git --version <br>
 ![gambar scm git](Gambar/git-version.PNG)
 * Jika muncul tampilan git version, berarti Git sudah berhasil di install dan bisa di gunakan.
 Langkah pertama, kita harus mengkonfigurasikan user name dan email di Git dan langsung lakukan pengecekan user name dan email , dengan mengetikkan syntax berikut :
@@ -55,7 +55,7 @@ Setelah file README.md diedit, silahkan simpan file tersebut dengan cara **CTRL+
 > git add . <br>
 ![gambar scm git](Gambar/git-add.PNG)
 * Setelah selesai melakukan *git add*. langkah selanjutnya adalah melakukan *commit*. Fungsi commit adalah untuk menyimpan perubahan yang dilakukan, tetapi tidak ada perubahan pada remote repository. Ketik pada App Git Bash seperti berikut ini :
-> git commit "Update README.md"
+> git commit "update readme file"
 ![gambar scm git](Gambar/git-commit.PNG)
 * Setelah melakukan git *commit*, selanjutnya lakukan git *push*. yang berfungsi untuk mengirimkan perubahan file setelah di commit ke remote repository. Silahkan ketik pada App Git Bash seperti Berikut :
 ![gambar scm git](Gambar/git-push.PNG)
