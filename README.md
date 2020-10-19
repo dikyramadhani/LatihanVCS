@@ -57,9 +57,9 @@ Setelah file README.md diedit, silahkan simpan file tersebut dengan cara **CTRL+
 * Setelah selesai melakukan *git add*. langkah selanjutnya adalah melakukan *commit*. Fungsi commit adalah untuk menyimpan perubahan yang dilakukan, tetapi tidak ada perubahan pada remote repository. Ketik pada App Git Bash seperti berikut ini :
 > git commit "Update README.md"
 ![gambar scm git](Gambar/git-commit.PNG)
-* Semua proses telah selesai, silahkan kembali ke Web Browser untuk melihat perubahan yang telah di *commit* dan *push* dari remote.
-![gambar scm git](Gambar/github-view2.PNG)
 * Setelah melakukan git *commit*, selanjutnya lakukan git *push*. yang berfungsi untuk mengirimkan perubahan file setelah di commit ke remote repository. Silahkan ketik pada App Git Bash seperti Berikut :
 ![gambar scm git](Gambar/git-push.PNG)
+* Semua proses telah selesai, silahkan kembali ke Web Browser untuk melihat perubahan yang telah di *commit* dan *push* dari remote.
+![gambar scm git](Gambar/github-view2.PNG)
 ## TERIMA KASIH , SEMOGA BERHASIL !
 
